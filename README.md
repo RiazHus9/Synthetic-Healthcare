@@ -12,7 +12,7 @@ Analyzed synthetic healthcare patient journey data to identify growth opportunit
 ![Dashboard Screenshot](Dashboard.png)
 
 ## Live Dashboard
-[View on Tableau Public](LINK)
+[View on Tableau Public](https://public.tableau.com/app/profile/riaz.hussain2100/viz/SynHealthKPIdashboard/Dashboard2#1)
 
 ## Full Report
 [Google Drive Report](LINK)
