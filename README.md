@@ -9,7 +9,7 @@ Analyzed synthetic healthcare patient journey data to identify growth opportunit
 - Tableau
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](Dashboard.png)
 
 ## Live Dashboard
 [View on Tableau Public](LINK)
